@@ -2,6 +2,8 @@
 
 This repository contains project for predicting income levels using the Adult dataset. The Adult dataset, sourced from the UCI Machine Learning Repository, contains demographic information about individuals such as age, education, occupation, etc., and a target variable indicating whether the individual's income exceeds $50K per year.
 
+For Dataset info: https://archive.ics.uci.edu/dataset/2/adult
+
 ## Models Implemented
 
 - Random Forest Classifier
